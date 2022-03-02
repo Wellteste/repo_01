@@ -1,1 +1,2 @@
 Primeiros passos git cmd
+Efetuei uma alteração após ir para uma versão anterior do repositorio.
