@@ -1,2 +1,4 @@
 Primeiros passos git cmd
 Segunda anotação
+Efetuei uma alteração após ir para uma versão anterior do repositorio. 
+segundario
